@@ -1,0 +1,50 @@
+*::-webkit-scrollbar {
+  height: 0;
+}
+/* *::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+} */
+
+
+.navbar-nav{
+  margin-left: 45%;   
+}
+.container{
+  max-width: fit-content;
+  background-color:rgb(220, 217, 217);
+}
+.bg-Color{
+  background-color:rgb(175, 144, 144);
+  height:auto;
+  align-items: center;
+  padding:20px 20px 20px 5px;
+}
+.accordion-collapse{
+  margin-left: -3px;
+}
+.section:hover{
+ color: white;
+
+ 
+}
+.container1{
+  background-color:rgb(237, 233, 233);
+}
+.btn{
+  background-color:rgb(96, 96, 211);
+  color: white;
+  border-radius: 24px;
+  
+
+}
+.btn:hover{
+  border: 1px dashed black;
+}
+.input-box{
+  width:100%;
+  border-top:none ;
+  border-left: none;
+  border-right: none;
+}
+
